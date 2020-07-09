@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuUpload"
+        android:title="同步到云端" />
+    <item
+        android:id="@+id/menuDownload"
+        android:title="从云端同步" />
+    <item
+        android:id="@+id/menuLogout"
+        android:title="注销" />
+
+</menu>
